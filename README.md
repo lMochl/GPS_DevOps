@@ -19,7 +19,7 @@ Para asegurar un ciclo de vida de desarrollo de software eficiente y de alta cal
 Se utilizó GitHub Actions para configurar la integración continua. Cada vez que se realiza un commit, se ejecutan automáticamente los tests para garantizar que no se introduzcan errores en el código base.
 
 ### Despliegue Continuo (CD)
-El despliegue continuo se configuró utilizando Vercel, lo que facilita la puesta en producción de la aplicación, además de ser un hosting gratuito. [Página DevOps](https://gsw-dev-ops.vercel.app/)
+El despliegue continuo se configuró utilizando Vercel, lo que facilita la puesta en producción de la aplicación, además de ser un hosting gratuito. [Página DevOps](https://gps-devops.vercel.app/)
 
 ### Pipeline CI/CD
 El pipeline CI/CD se compone de los siguientes pasos:
