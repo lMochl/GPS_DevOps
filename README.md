@@ -12,7 +12,7 @@ Este proyecto se realizó como parte del curso de Gestión de Proyectos de Softw
 Para asegurar un ciclo de vida de desarrollo de software eficiente y de alta calidad, se implementaron las siguientes prácticas y herramientas de DevOps:
 
 <div align="center">
-  <img src="./devops.png" alt="DevOps Pipeline" width="600"/>
+  <img src="./devops.png" alt="DevOps" width="600"/>
 </div>
 
 ### Integración Continua (CI)
